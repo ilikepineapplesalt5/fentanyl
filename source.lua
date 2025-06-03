@@ -1,3 +1,9 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "crack by ilikepineapplesalt4";
+    Text = "enjoy";
+    Duration = 5;
+})
+
 local placeId = game.PlaceId
 
 --/ Crash Out Simulator
